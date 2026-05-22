@@ -3,7 +3,5 @@ gunicorn
 numpy
 pandas
 scikit-learn
-xgboost
-catboost
 dill
 #-e .
